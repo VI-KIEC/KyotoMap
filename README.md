@@ -1,4 +1,4 @@
-##祇園・清水寺マップアプリ
+## 祇園・清水寺マップアプリ
 
 [アプリURL](https://kyoto-map.vercel.app)
 
